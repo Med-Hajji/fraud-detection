@@ -1,0 +1,6 @@
+{
+  "threshold": 0.03,
+  "cost_false_negative": 100,
+  "cost_false_positive": 5,
+  "pr_auc_test": 0.8792156278610679
+}
